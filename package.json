@@ -1,0 +1,14 @@
+{
+  "name": "gsel",
+  "version": "1.0.0",
+  "description": "Selenium Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reitz",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
+}
